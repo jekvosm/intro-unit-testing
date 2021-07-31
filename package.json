@@ -1,0 +1,27 @@
+{
+  "name": "intro-unit-testing",
+  "version": "1.0.0",
+  "description": "js, javascript, jest, unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekvosm/intro-unit-testing.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "jekvosm",
+  "email": "yn4k-jek@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jekvosm/intro-unit-testing/issues"
+  },
+  "homepage": "https://github.com/jekvosm/intro-unit-testing#readme"
+}
